@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **Medcillin/Medcillin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<H2>Welcome to Yaolin's Page!</H2>
+<h3>👀 I'm starting my coding/Github journey this year 2024~ <br>
+  🌱 I'll be starting with some personal projects.<br>
+  🍄 Ask me about projects having to do with Health and medicine. <br>
+  🥺 I'm looking for help with improving any of my code, I'm always open to learn!<br>
+
+  <img src="https://imagizer.imageshack.com/img923/7938/jVLmLP.jpg" alt="My cat Bohji" width="200" height="150"></img></h3>
